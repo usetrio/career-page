@@ -1,6 +1,6 @@
 # **#TrioDev** <img src="images/trio.png" alt="Carreiras" style="zoom:100%;" />
 
-<img src="images/background.png" alt="Carreiras" style="zoom:100%"/>
+<img src="images/background-trio.png" alt="Carreiras" style="zoom:100%"/>
 
 ## **ABOUT US**
 
